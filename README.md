@@ -26,3 +26,11 @@ Based on `Fast Segment Everything` algorithm, we built a number of applications 
 |Segment everything with an image prompt|![everything_img](https://github.com/annotation-ai/technical-demo/assets/14961526/e5ef08b7-cb37-42bb-bb95-0298f0c2410e)|[HuggingFace Space](https://huggingface.co/spaces/Annotation-AI/fast-segment-everything-with-image-prompt)|
 |Segment everything with a drawing prompt|![everything_drawing](https://github.com/annotation-ai/technical-demo/assets/14961526/0a10793d-9a35-4509-b667-9ccecfd3f737)|[HuggingFace Space](https://huggingface.co/spaces/Annotation-AI/fast-segment-everything-with-drawing-prompt)|
 |Segment similar things! (Single click)|![similarthings](https://github.com/annotation-ai/technical-demo/assets/14961526/c7a04665-375e-4d37-8d5a-ee6b944d08a9)| [HuggingFace Space](https://huggingface.co/spaces/Annotation-AI/segment-similarthings)|
+
+
+## Person Re-Identification(Re-ID)
+Person re-identification(Re-ID) aims at retrieving a person of interest across multiple non-overlapping cameras. We implement Re-ID applications for various situations.
+
+|Title|GIF|Demo|
+|---|---|---|
+|Re-ID with query & gallery images|![person_reid_demo](https://github.com/annotation-ai/technical-demo/assets/17582508/e7fad94d-9270-4e61-b663-64b425d52f86)|[HuggingFace Space](https://huggingface.co/spaces/khsyee/person_reid_demo)|
